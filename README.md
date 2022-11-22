@@ -32,5 +32,5 @@ Loosely defined, a recommender system is a system which predicts ratings a user 
 |Name| Youtube challen | Github|
 |-|-|-|
 
-|Shivan Kumar| [Youtube Link](https://www.youtube.com/@engineeringwalabhaiya)| [GIthub]([https://www.youtube.com/?gl=IN](https://github.com/Shivan118))
+|Shivan Kumar| [Youtube Link](https://www.youtube.com/@engineeringwalabhaiya)| [GIthub](https://github.com/Shivan118)
 |-|-|-|
