@@ -4,4 +4,4 @@ Loosely defined, a recommender system is a system which predicts ratings a user 
 
 |SNo| Topic | SubTopic | Link |
 |-|-|-|-|
-|-| Introduction | [Explanation video link](https://www.youtube.com/?gl=IN)
+|00| Introduction |Introducntion part 1| [Explanation video link](https://www.youtube.com/?gl=IN)
